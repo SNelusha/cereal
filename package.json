@@ -1,0 +1,27 @@
+{
+  "name": "@snelusha/cereal",
+  "version": "1.0.0",
+  "description": "Simple PubSub library for Javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNelusha/cereal.git"
+  },
+  "keywords": [
+    "cereal",
+    "pubsub",
+    "publish",
+    "subscribe",
+    "javascript pubsub",
+    "event"
+  ],
+  "author": "snelusha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SNelusha/cereal/issues"
+  },
+  "homepage": "https://github.com/SNelusha/cereal"
+}
